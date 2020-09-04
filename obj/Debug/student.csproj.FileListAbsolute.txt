@@ -1,0 +1,32 @@
+C:\Users\sudha\source\repos\student\student\bin\Debug\student.exe.config
+C:\Users\sudha\source\repos\student\student\bin\Debug\student.exe
+C:\Users\sudha\source\repos\student\student\bin\Debug\student.pdb
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.csprojAssemblyReference.cache
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Form1.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.exe
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.pdb
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_Management.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_Add.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_delete.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_Display.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_Search.resources
+C:\Users\sudha\source\repos\student\student\obj\Debug\student.Pan_Update.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\bin\Debug\student.exe.config
+C:\Users\Dhanush\Downloads\pan- final\student\student\bin\Debug\student.exe
+C:\Users\Dhanush\Downloads\pan- final\student\student\bin\Debug\student.pdb
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.csprojAssemblyReference.cache
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_Add.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_delete.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_Display.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_Management.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_Search.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Pan_Update.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.exe
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.pdb
+C:\Users\Dhanush\Downloads\pan- final\student\student\obj\Debug\student.MDIParent1.resources
